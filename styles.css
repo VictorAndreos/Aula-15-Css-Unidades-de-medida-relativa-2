@@ -1,0 +1,35 @@
+/* Comentarios didático
+1 em = 16 pixels 
+ 
+E assim por diante, sempre multiplicando 
+o valor base de 16 pela quantidade q deseja 
+exemplo:
+2 em = 32 pixels
+*/
+
+html{
+    background-color: black; 
+    color: aliceblue;
+}
+
+
+body{
+    background-color: yellow;
+    width: 50%;
+   font-size: 3em;
+}
+
+.pai{
+    background-color: green;
+    width: 50%;
+    font-size: 1.5em;
+}
+
+.filha{
+    background-color: blue;
+    width: 50%;
+    font-size: 3em;
+
+
+}
+
